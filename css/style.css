@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+}
+
+#div-paragrafos {
+    color: aliceblue;
+    background-color: rgb(93, 93, 145);
+}
+
+.longo {
+    background-color: pink;
+}
