@@ -20,6 +20,10 @@ nav ul {
     list-style: none;
 }
 
+ul li {
+    margin-right: 12px;
+}
+
 ul li a {
     color: #fff;
     text-decoration: none;
@@ -27,21 +31,21 @@ ul li a {
 }
 
 ul li a:hover {
-    color: rgb(15, 120, 150);
+    color: rgb(15,120,150);
 }
 
 h1 {
     font-size: 32px;
-    color: darkorange;
+    color: darkorange;    
 }
 
 img {
-    border: 3px solid rgb(15, 194, 218);
+    border: 3px solid rgb(15,194,218);
     height: 300px;
 }
 
 footer {
-    padding: 20px;
+    padding:  20px;
     border-top: 1px solid #666;
     margin-top: 20px;
 }
